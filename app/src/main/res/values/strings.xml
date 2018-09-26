@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">test1dia3</string>
+    <string name="score">Puntuación:</string>
+    <string name="check">Comprobar</string>
+    <string name="number">Numero</string>
+    <string name="explanation_toast_text">Hay que poner un numero entero</string>
+    <string name="higher_toast_text">Prueba uno menor</string>
+    <string name="lower_toast_text">Prueba uno mayor</string>
+    <string name="correct_toast_text">El numero es ese</string>
+</resources>
